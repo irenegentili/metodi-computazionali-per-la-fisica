@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @irenegentili
 - I’m currently studying physics in Perugia
-- 📫 How to reach me: irenegentili1800@gmail.com or irene.gentili2@studenti.unipg.it
+- 📫 How to reach me: irenegentili1800@gmail.com and irene.gentili2@studenti.unipg.it
