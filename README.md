@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @irenegentili
-- I’m currently studying physics in Perugia
-- 📫 How to reach me: irenegentili1800@gmail.com and irene.gentili2@studenti.unipg.it
+repository esercitazioni metodi computazionali per la fisica 2024/2025
