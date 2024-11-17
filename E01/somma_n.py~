@@ -1,5 +1,0 @@
-n=input(int("immettere il numero massimo da sommare: "))
-somma=0
-for i in range(0,n+1):
-    somma=somma+i
-print(somma)
