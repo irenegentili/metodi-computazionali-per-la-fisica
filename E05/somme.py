@@ -13,11 +13,10 @@ def sommarad (n):
     return s
 
 def sp (n):
-    s=0
+    s=somma(n)
     p=1
     for i in range (0,n+1):
         p=p*i
-        s=s+i
     return s,p
 
 def smpot(n, a=1):
